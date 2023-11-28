@@ -1,0 +1,6 @@
+﻿  lab5.cpp
+C:\Users\user\Desktop\projects\lab5\lab5\lab5.cpp(121,50): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\Desktop\projects\lab5\lab5\lab5.cpp(122,50): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\Desktop\projects\lab5\lab5\lab5.cpp(123,50): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\Desktop\projects\lab5\lab5\lab5.cpp(124,50): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  lab5.vcxproj -> C:\Users\user\Desktop\projects\lab5\x64\Debug\lab5.exe

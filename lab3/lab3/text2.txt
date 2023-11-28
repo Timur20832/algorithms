@@ -1,0 +1,10 @@
+keker
+.file1.cpp
+.folder1
+..folder11
+...folder111
+.file2.cpp
+.folder2
+..folder21
+...text.txt
+..lol.cpp

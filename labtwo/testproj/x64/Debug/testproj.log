@@ -1,0 +1,4 @@
+﻿  testproj.cpp
+C:\Users\user\Desktop\projects\labtwo\testproj\testproj.cpp(15): warning C4715: choose_type: значение возвращается не при всех путях выполнения
+C:\Users\user\Desktop\projects\labtwo\testproj\testproj.cpp(9): warning C4715: opera_res: значение возвращается не при всех путях выполнения
+  testproj.vcxproj -> C:\Users\user\Desktop\projects\labtwo\x64\Debug\testproj.exe

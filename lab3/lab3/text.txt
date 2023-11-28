@@ -1,0 +1,13 @@
+CC
+.fold1
+..fold11
+...keker.txt
+...lolik.cpp
+..fold12
+...fold121
+....chopa.cpp
+.CIN2
+..DOCH23.cpp
+..DOCH24.txt
+.fold21
+..csl.cpp

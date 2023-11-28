@@ -1,0 +1,4 @@
+﻿  labtwo.cpp
+C:\Users\user\Desktop\projects\labtwo\labtwo\labtwo.cpp(37): warning C4715: opera_res: значение возвращается не при всех путях выполнения
+C:\Users\user\Desktop\projects\labtwo\labtwo\labtwo.cpp(43): warning C4715: opera_func: значение возвращается не при всех путях выполнения
+  labtwo.vcxproj -> C:\Users\user\Desktop\projects\labtwo\x64\Debug\labtwo.exe
